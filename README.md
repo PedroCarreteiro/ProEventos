@@ -1,2 +1,2 @@
 ﻿# ProEventos 
-## Projeto em .NET 5 e Angular 12
+## Projeto em .NET 5, Angular 12 e SQLite
